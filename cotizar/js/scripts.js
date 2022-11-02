@@ -42,10 +42,7 @@ class UI {
 					</div>
 						<p class="price"><b>Precio: </b> Bs ${producto.price}</p>
 						<p class="description">
-							<b>Descripcion: </b> <span>Ryzen 5</span>
-						</p>
-						<p class="description">
-							<span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque voluptates consequuntur in assumenda odit hic, aut cupiditate dolorem aspernatur! Quibusdam iusto magnam vero maxime quisquam voluptatibus minima aliquam molestias, iure ratione commodi, reiciendis quasi.</span>
+							<b>Descripcion: </b> <span>Encuentra el computador que necesitas para navegar, diseñar, trabajar o vivir los mejores momentos de entretenimiento, sabemos lo importante que es para ti tener el mejor rendimiento en tu día a día. Descubre aquí alternativas en venta de computadoresque más se adapte a tu necesidad tecnológica; desde computadores portátiles, Notebooks, Macbooks y All in One, hasta Convertibles y Gaming. Déjate sorprender por todas las funcionalidades y posibilidades que tendrás al alcance de tus manos gracias a marcas de computadores como HP, Asus, Acer, Dell, y Lenovo.</span>
 						</p>
 
 						<div class="bottom">
